@@ -4,9 +4,6 @@ Depedency link:
 
 https://github.com/MaJerle/stm32f429
 
-Put all folders starting With 00 in Same Path to Run
+Put all folder name starting with 00 in the same path to build
 
-CopyRight to:Tilen Majerle
-
-________File For College Submission Only_________
- 
+Copy Right to:Tilen Majerle
